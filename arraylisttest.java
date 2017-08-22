@@ -10,7 +10,7 @@ public class arraylisttest {
 		List<String> st=new ArrayList<String>();
 		st.add("sumitha");
 		st.add("hemmshika");
-		st.add(2, "mehaa");
+		st.add(5, "mehaa");
 		st.toArray();
 		st.add("babu");
 		for(Object aa:st){
